@@ -16,7 +16,3 @@ Postman Documentation
 
 https://documenter.getpostman.com/view/21621604/2s93RTSCxg
 
-INITIALIZATION
-
-const RapidYummlyAPI = require('rapidyummly-api-node');
-const rapidyummly = new RapidYummlyAPI(apiKey);
