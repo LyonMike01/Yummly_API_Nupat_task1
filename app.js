@@ -5,7 +5,6 @@ const { environment } = require("./backend/environment/environment");
 
 const {PORT, key} = environment;
   
-console.log(key, "**************APP***********")
 const app = express();
 
 app.use(cors())

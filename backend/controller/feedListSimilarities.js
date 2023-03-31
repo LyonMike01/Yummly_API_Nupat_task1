@@ -3,7 +3,6 @@ const { environment } = require("../environment/environment");
 const {key} = environment;
 
   
-console.log(key, "*****SILARITIES************")
 
 // Feed List Similarities
 const getSimilarities = async (req, res) => {
